@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tetromino shapes grouped in safe area (bounds 26 to 82) -->
+    <!-- Cyan I Block 1..4 (vertical column at x=28) -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M28,30h11v11h-11z M28,43h11v11h-11z M28,56h11v11h-11z M28,69h11v11h-11z" />
+    
+    <!-- Purple T Block (center) -->
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M41,43h11v11h-11z M54,43h11v11h-11z M67,43h11v11h-11z M54,30h11v11h-11z" />
+
+    <!-- Amber O Block (bottom left of T) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M41,56h11v11h-11z M54,56h11v11h-11z M41,69h11v11h-11z M54,69h11v11h-11z" />
+
+    <!-- Emerald S Block (right side) -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M67,56h11v11h-11z M67,69h11v11h-11z M54,69h11v11h-11z" />
+        
+    <!-- Pink accent block -->
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M67,30h11v11h-11z" />
+</vector>

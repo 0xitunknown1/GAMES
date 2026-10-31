@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="start_game">START GAME</string>
+    <string name="score">Score</string>
+    <string name="lines">Lines</string>
+    <string name="level">Level</string>
+    <string name="high_score">Best</string>
+    <string name="paused">PAUSED</string>
+    <string name="resume">Resume</string>
+    <string name="restart">Restart</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="game_over">GAME OVER</string>
+    <string name="final_score">Final Score</string>
+    <string name="instructions">How to Play</string>
+    <string name="sound_effects">Sound Effects</string>
+    <string name="haptics">Haptic Vibration</string>
+    <string name="swipe_mode">Touch Swipe Gestures</string>
+</resources>

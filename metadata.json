@@ -1,0 +1,6 @@
+{
+  "name": "Tetris",
+  "description": "Retro arcade Tetris with responsive touch controls, synthetic arcade sound synthesizer, haptic feedback, score tracking, and pause/restart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
